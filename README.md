@@ -2,7 +2,7 @@
 I'm a Data Analyst. I like to learn new tech and business around it. 
 
 - 📫 Feel free to reach me out on [Twitter](https://twitter.com/TejaSuryaH) or [Linkedin](https://www.linkedin.com/in/tejasurya/)
-- ⚡ Fun fact: ... I can converse in 5 languages.
+- ⚡ Fun fact: I can converse in 5 languages.
 <?--
 Here are some ideas to get you started:
 
