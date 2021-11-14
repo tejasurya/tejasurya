@@ -3,7 +3,7 @@ I'm a Data Analyst. I like to learn new tech and business around it.
 
 - 📫 Feel free to reach me out on [Twitter](https://twitter.com/TejaSuryaH) or [Linkedin](https://www.linkedin.com/in/tejasurya/)
 
--->
+<?--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
