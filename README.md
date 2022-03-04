@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Teja Surya
-I'm a Data Analyst. I like to learn new tech and business around it. 
+I'm a Data Science enthusiast. I like to learn new tech and business around it. 
 
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on ML,DL and opensource projects.
