@@ -4,7 +4,7 @@ I'm a Data Science enthusiast. I like to learn new tech and business around it.
 - 🌱 I’m currently learning Transformers, NLP, CV.
 - 👯 I’m looking to collaborate on ML,DL and opensource projects.
 - ⚡ Fun fact: I can converse in 5 languages.
-- 📫 Feel free to reach me out on [Twitter](https://twitter.com/TejaSuryaH) or [Linkedin](https://www.linkedin.com/in/tejasurya/)
+- 📫 Feel free to reach me out on [Twitter](https://twitter.com/TejaSuryaH) or [Linkedin](https://www.linkedin.com/in/tejasurya/) or [Kaggle](https://www.kaggle.com/tejasurya)
 
 <?--
 Here are some ideas to get you started:
