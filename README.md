@@ -6,9 +6,12 @@ I'm a Data Scientist. I'm a 3X Kaggle Expert . Love to collect and work around t
 - ⚡ Fun fact: I'm a Polyglot ,can converse in 5+ languages.
 - 📫 Feel free to reach me out on [Kaggle](https://www.kaggle.com/tejasurya) or [Twitter](https://twitter.com/teja_surya_) or [Linkedin](https://www.linkedin.com/in/tejasurya/)
 
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/discussion)
+![tejasurya](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tejasurya)
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tejasurya/discussion/light)
 
 
 <?--
