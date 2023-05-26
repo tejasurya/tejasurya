@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Teja Surya
-I'm a Data Science enthusiast . I'm a 3X Kaggle Expert . Love to collect and work around the data by analysing it. I like to learn new tech and business around it. 
+I'm a Data Scientist . I'm a 3X Kaggle Expert . Love to collect and work around the data by analysing it. I like to learn new tech and business around it. 
 
 - 🌱 I’m currently reading about MLOps, LLM, LLMOps etc.
 - 👯 I’m looking to collaborate and solve business problems on tabular data using Machine Learning algo's and some NLP/LLM projects.
