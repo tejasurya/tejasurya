@@ -7,9 +7,13 @@ I'm a Data Science enthusiast . I'm a 3X Kaggle Expert . Love to collect and wor
 
 ### Find me around the web 🌎:
 Everything about me in my [website](https://www.tejasurya.in) 🖥
-Posting my work on Kaggle [Kaggle](https://www.kaggle.com/tejasurya)✍ ,[Linkedin](https://www.linkedin.com/in/tejasurya/)🏽
+
+Posting my work on platforms like [Kaggle](https://www.kaggle.com/tejasurya)✍ ,[Linkedin](https://www.linkedin.com/in/tejasurya/)🏽
+
 Feel free to reach out to me on mail: tejasurya (at) alumni (dot) iitm (dot) ac (dot) in
+
 Follow me on [Twitter](https://twitter.com/teja_surya_)
+
 <?--
 ![tejasurya](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tejasurya)
 
