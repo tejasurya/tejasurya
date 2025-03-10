@@ -6,7 +6,7 @@ I'm a Data Scientist . I'm a 3X Kaggle Expert . Love to collect and work around 
 - ⚡ Fun fact: I'm a Polyglot, can converse in 5+ languages.
 
 ### Find me around the web 🌎:
-Everything about me in my [website](https://www.tejasurya.in) 🖥
+!Everything about me in my [website](https://www.tejasurya.in) 🖥
 
 Posting my work on platforms like [Kaggle](https://www.kaggle.com/tejasurya)✍ ,[Linkedin](https://www.linkedin.com/in/tejasurya/)🏽
 
